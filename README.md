@@ -12,7 +12,7 @@ realistic foundation and will be updated in phases.
 ## Environment
 - Custom Home Server
   - AMD Ryzen 7 9700X 8-Core Processor
-  - 34GB DDR5 RAM
+  - 32GB DDR5 RAM
   - NVMe 1TB SSD Storage
   - Proxmox Virtual Environment
 
