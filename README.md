@@ -1,5 +1,5 @@
-# active-directory-lab
-Enterprise Active Directory homelab with domain controller, domain-joined endpoints, and structured OU design.
+# active-directory-&-siem-lab
+Enterprise Active Directory homelab with domain controller, domain-joined endpoints, and structured OU design. Splunk enterprise deployed SIEM and incident response simulations.
 
 ## Overview
 This project documents the build of an enterprise-style Active Directory
