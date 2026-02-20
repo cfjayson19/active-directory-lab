@@ -62,9 +62,9 @@ Phase 2 extends the Active Directory lab by introducing logging and basic SIEM c
 
 ## SIEM
 - Splunk Enterprise (On Ubuntu Server - splunk01)
-  -Splunk Universal Forwarder on:
-    -DC01 (Domain Controller)
-    -WS01 (Domain-joined workstation)
+  - Splunk Universal Forwarder on:
+    - DC01 (Domain Controller)
+    - WS01 (Domain-joined workstation)
 
 ## Data Sources
 - Windows Security Event Logs
